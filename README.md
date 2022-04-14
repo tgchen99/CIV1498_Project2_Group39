@@ -4,4 +4,5 @@ GitHub repository for Rulia & Co's data and code used for CIV1498 Project 2: For
 
 Notes:
 - 2022-03-13 CleanedData.zip is the most current available data
-- Benchmarking data and modeling code are included for completion, but have been superceded
+- Benchmarking data and modeling code are included for completion, but have been superceded by CIV1498-Project_ChaoLung-0412V2.ipynb
+- StatForecasting_TryXGBoost.ipynb is included for completion, but is superceded by <>
